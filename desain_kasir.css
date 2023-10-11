@@ -1,0 +1,30 @@
+main{
+	font-family: "Open Sans", sans-serif;
+}
+h1 {
+	font-family: 'Engagement', cursive;
+	font-size: 60px;
+	position: relative;
+	top: 100px;
+	color: white;
+}
+tr {
+	color: white;
+}
+form {
+	font-family: "Open Sans", sans-serif;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 45%;
+	position: relative;
+	top: 80px;
+}
+body {
+	background-image:url(background.jpg); 
+	background-size:cover; 
+	background-attachment: fixed;
+}
+.btn {
+	height: 30px;
+	width: 120px;
+}
